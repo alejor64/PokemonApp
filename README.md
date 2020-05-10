@@ -1,12 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 # Pokemon App
 
-The Pokemon App is a Frontend app made with React and [PokéApi](https://pokeapi.co/).
+The Pokemon App is a Frontend app made with React, Redux appliying [Duck methodology](https://github.com/erikras/ducks-modular-redux) and using [PokéApi](https://pokeapi.co/).
 Searches one Pokemon Character in the deployed list and see the main characteristics.
 
 ## Getting Started
