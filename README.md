@@ -39,9 +39,7 @@ yarn start
 
 ## Demo
 
-```
-https://wizardly-dubinsky-031e40.netlify.app/
-```
+[Demo](https://wizardly-dubinsky-031e40.netlify.app/)
 
 ## Authors
 
