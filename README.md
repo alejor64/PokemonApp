@@ -39,7 +39,7 @@ yarn start
 
 ## Demo
 
-[Demo](https://wizardly-dubinsky-031e40.netlify.app/)
+[Demo](https://xenodochial-kalam-99abfe.netlify.app)
 
 ## Authors
 
